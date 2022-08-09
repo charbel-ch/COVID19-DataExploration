@@ -4,7 +4,7 @@ A data exploration project on COVID-19 data, from January 24 2020 till July 17 2
 
 ## Tools
 
-- SQL : the queris in this project were written in Microsoft SQL Server Management Studio.
+- SQL : the queries in this project were written in Microsoft SQL Server Management Studio.
 
 ## Installation
 
